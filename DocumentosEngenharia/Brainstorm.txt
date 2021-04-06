@@ -1,0 +1,4 @@
+- Sistema de cãmeras para visualizar as vagas
+- Sistema para verificar se há disponibilidade de vaga para evitar superlotação
+- QRCode, PIX e caixinha para pagamentos
+- Sistema para registrar os veículos que estacionarem para evitar calote
